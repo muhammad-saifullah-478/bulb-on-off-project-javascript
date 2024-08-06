@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+}
+#on {
+    color: bisque;
+    background-color: black;
+}
+#on:hover {
+    background-color: rgb(9, 142, 38);
+}
+#of {
+    color: bisque;
+    background-color: black;
+}
+#of:hover {
+    background-color: rgb(255, 0, 0);
+}
